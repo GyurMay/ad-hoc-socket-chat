@@ -1,0 +1,85 @@
+{
+    "chat_groups": [
+      {
+        "chatId": 1,
+        "usersIds": [2, 3] 
+      },
+      {
+        "chatId": 2,
+        "usersIds": [2, 7] 
+      }
+    ],
+    "chats": [
+        {
+        "chatId": 1,
+        "history": [
+            {
+                "userId": 2,
+                "message": "Hi yall. Trump won"
+            },
+            {
+                "userId": 3,
+                "message": "yeah. thats great news"
+            }
+        ]
+        },
+        {
+        "chatId": 2,
+        "history": [
+            {
+                "userId": 7,
+                "message": "Hi yall. Jake won"
+            },
+            {
+                "userId": 2,
+                "message": "yeah. feel bad for mike"
+            }
+        ]
+        }
+    ],
+    "users": [
+      {
+        "email": "gorakhnew122@gmail.com",
+        "password": "$2a$10$WmDLdfPj1mKqPTq8T2uzNeir2A7fNN.mf/ePAi94x/h0yVhJensF2",
+        "userId": 2,
+        "active": false
+      },
+      {
+        "email": "gorakhnew@gmail.com",
+        "password": "$2a$10$2ve2Hu6.AOoBq.kizaC6P.XEK.TXEuZ52zvlmo.ezWxNcPvqT9Eey",
+        "userId": 3,
+        "active": false
+      },
+      {
+        "email": "gorakhnewtest@gmail.com",
+        "password": "$2a$10$D7mDjcfi9Kt/b6FoZZ4uXOivpFhfy/ZrtW4qRkjItpwYDacIUGaoy",
+        "userId": 4,
+        "active": false
+      },
+      {
+        "email": "abc@gmail.com",
+        "password": "$2a$10$aEdz52/x1QZlJ7ikd96Ope0XgFrhbkbfaURlcQ1lNGg38CAgaY3Vm",
+        "userId": 5,
+        "active": false
+      },
+      {
+        "email": "bitpointserver@gmail.com",
+        "password": "$2a$10$yCw6Ahw5mUf/kHhg/Bg86eafQnFPMHOq99mBOPr4p0YBKnrekGwlO",
+        "userId": 6,
+        "active": false
+      },
+      {
+        "email": "gorakh626@gmail.com",
+        "password": "$2a$10$MLXgvTQt3sA8/gnh/PT/NOVbmr41tlAYPUazpybd9H8a.xKp1xYDe",
+        "userId": 7,
+        "active": false
+      },
+      {
+        "email": "test5@gmail.com",
+        "password": "$2a$10$HgBtMXud9Pq6bpyQgeWFee.dd21UZYfvtS7IGDBa9OQlKPn5CjXb2",
+        "username": "test",
+        "userId": 8,
+        "active": false
+      }
+    ]
+  } 
